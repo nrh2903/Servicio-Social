@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/11qwRH-toU0r2EEvYRHwtAkn1lroVoKad
 """
 
-!pip install geoglows geemap
-
 !pip install geoglows earthengine-api geemap
 
 !pip install fsspec==2025.12.0
