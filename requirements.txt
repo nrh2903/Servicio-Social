@@ -1,0 +1,7 @@
+streamlit
+geoglows
+earthengine-api
+numpy
+pandas
+matplotlib
+scipy
